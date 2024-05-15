@@ -1,0 +1,158 @@
+﻿@*@inject Asp.Common.SessionConfig.ISessionConfigService _sessionService*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProjectMohammadRepositry</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProjectMohammadRepositry.styles.css" asp-append-version="true" />
+    <link href="~/css/toastr.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    @if (SessionService.CurrentLang.Contains("en"))
+    {
+        <link href="~/thems/css/siteLTR.css" rel="stylesheet" />
+    }
+    <!-- Dt -->
+    <link href="~/lib/DataTable/DataTables-1.10.18/css/dataTables.bootstrap4.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Scroller-2.0.0/css/scroller.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Responsive-2.2.2/css/responsive.bootstrap4.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Buttons-1.5.6/css/buttons.bootstrap4.min.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ProjectMohammad</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    <ul class="navbar-nav flex-grow-1 justify-content-end">
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Studentss" asp-action="index">Studentss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Travelss" asp-action="index">Travelss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Deceratorsss" asp-action="index">Deceratorsss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Role" asp-action="index">Role</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="User" asp-action="index">User</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Materialsss" asp-action="index">Materialsss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Authorss" asp-action="index">Authorss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Departmentss" asp-action="index">Departmentss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="PeaNbusss" asp-action="index">PeaNbusss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Greetingss" asp-action="index">Greetingss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="TSAPSSS" asp-action="index">TSAPSSS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Academicsss" asp-action="index">Academicsss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Alumnissss" asp-action="index">Alumnissss</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Ethreaasss" asp-action="index">Ethraa</a>
+                        </li>
+                      
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Authentication" asp-action="Logout">Logout</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Other Links
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="nav-link" asp-area="" asp-controller="PromationBook" asp-action="index">PromationBook</a>
+                                <a class="nav-link " asp-area="" asp-controller="Fileextentions" asp-action="index">Fileextentions</a>
+                                <a class="nav-link " asp-area="" asp-controller="ScientaficPromations" asp-action="index">ScientaficPromations</a>
+                                <a class="nav-link " asp-area="" asp-controller="Surveyss" asp-action="index">Surveyss</a>
+               
+                                <a class="nav-link " asp-area="" asp-controller="PromationPaitentss" asp-action="index">PromationPaitentss</a>
+                                <a class="nav-link " asp-area="" asp-controller="Mohammadtayeh" asp-action="index">Mohammadtayeh</a>
+                                <a class="nav-link " asp-area="" asp-controller="Langugessss" asp-action="index">Langugessss</a>
+                                <a class="nav-link " asp-area="" asp-controller="Majalesss" asp-action="index">Majalesss</a>
+                                <a class="nav-link " asp-area="" asp-controller="Employeesss" asp-action="index">Employeesss</a>
+                                <a class="nav-link " asp-area="" asp-controller="Product" asp-action="index">Product</a>
+                                <a class="nav-link " asp-area="" asp-controller="Wigooss" asp-action="index">wigoo</a>
+                                <a class="nav-link " asp-area="" asp-controller="CodeAgentss" asp-action="index">CodeAgentss</a>
+                                <a class="nav-link " asp-area="" asp-controller="TransVisass" asp-action="index">TransVisass</a>
+                                <a class="nav-link " asp-area="" asp-controller="Sponserss" asp-action="index">Sponserss</a>
+                                <a class="nav-link " asp-area="" asp-controller="CodeBankss" asp-action="index">CodeBankss</a>
+                            </div>
+                        </li>
+                       <li>
+                            <a aria-haspopup="true" onclick=" return changeLang();" class="nav-link " href="javascript:void(0)" data-toggle="tooltip" data-placement="bottom" title="">
+                                <i class="bi bi-globe" placement="bottom" triggers="mouseenter:mouseleave" data-number="0"></i>
+                                
+                            </a>
+                       </li>
+
+                    </ul>
+                    
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="col-lg-10" style="padding:8px;margin:auto">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <!-- Modals -->
+    <div class="modal fade modal" id="modal-trigger" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" onclick="return closemodel();" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="title" id="largeModalLabel"></h4>
+                </div>
+                <div class="modal-body p-3"></div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/js/toastr.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
+    <!-- Dt -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.js"></script>
+    <script src="~/lib/DataTable/DataTables-1.10.18/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/DataTable/DataTables-1.10.18/js/dataTables.bootstrap4.js"></script>
+    <script src="~/lib/DataTable/datatables.min.js"></script>
+    <script src="~/lib/DataTable/Responsive-2.2.2/js/responsive.bootstrap4.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/buttons.html5.min.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/buttons.print.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

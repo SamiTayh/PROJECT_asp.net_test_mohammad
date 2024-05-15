@@ -1,0 +1,133 @@
+﻿@using Asp.DALL.Entites;
+@model Asp.DALL.Viewmodel.CodeAgentVM
+@inject IHtmlLocalizer<MajalesResx> Localizer;
+@{
+    var listofgender = (List<Gender>)ViewData["gender"];
+    var listofbooks = (List<ListBooks>)ViewData["lists"];
+    var listofauthor = (List<Author>)ViewData["Author"];
+}
+
+<form asp-controller="CodeAgentss" asp-action="Form" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="File" />
+    <input type="hidden" asp-for="Extentions" />
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Name"]</label>
+            <input class="form-control" type="text" asp-for="Name" />
+        </div>
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Description"]</label>
+            <input class="form-control" type="text" asp-for="Description" />
+        </div>
+    </div>
+
+
+    <br />
+    <div class="row">
+
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Title"]</label>
+            <input class="form-control" type="text" asp-for="Title" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["phone"]</label>
+            <input class="form-control" type="number" asp-for="Phone" />
+        </div>
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["email"]</label>
+            <input class="form-control" type="email" asp-for="Email" />
+        </div>
+    </div>
+
+    <br />
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Date"]</label>
+            <input class="form-control" type="date" asp-for="Date" />
+        </div>
+        <div class="col-lg-6">
+
+            <label class="form-group">@Localizer["File"]</label>
+            <input class="form-control" type="file" asp-for="Attach" />
+        </div>
+        <div class="col-lg-6">
+
+            <label class="form-group">@Localizer["Age"]</label>
+            <input class="form-control" type="number" asp-for="Age" />
+        </div>
+    </div>
+
+    <br />
+
+    <div class="row">
+        <div class="col-lg-12">
+            <label class="form-group">@Localizer["Author"]</label>
+            <select class="form-control" asp-for="AuthorId">
+
+                <option value="">Select Author</option>
+                @foreach (var c in @listofauthor) // Print the list
+                {
+                    <option value="@c.Id">@c.Name</option>
+                }
+
+
+            </select>
+        </div>
+        <div class="col-lg-12">
+            <label class="form-group">@Localizer["gender"]</label>
+            <select class="form-control" asp-for="GenderId">
+
+                <option value="">Select Author</option>
+                @foreach (var c in @listofgender) // Print the list
+                {
+                    <option value="@c.Id">@c.Name</option>
+                }
+
+
+            </select>
+        </div>
+        <div class="col-lg-12">
+            <label class="form-group">@Localizer["ListBooks"]</label>
+            <select class="form-control" asp-for="Listid">
+
+                <option value="">Select Author</option>
+                @foreach (var c in @listofbooks) // Print the list
+                {
+                    <option value="@c.Id">@c.NameBooks</option>
+                }
+
+
+            </select>
+        </div>
+    </div>
+
+    <br />
+    <button class="btn btn-save"> save</button>
+</form>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

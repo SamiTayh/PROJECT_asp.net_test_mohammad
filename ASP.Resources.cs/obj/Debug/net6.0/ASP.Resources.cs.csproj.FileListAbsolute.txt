@@ -1,0 +1,17 @@
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\bin\Debug\net6.0\ASP.Resources.cs.deps.json
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\bin\Debug\net6.0\ASP.Resources.cs.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\bin\Debug\net6.0\ASP.Resources.cs.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\bin\Debug\net6.0\ar\ASP.Resources.cs.resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.csproj.AssemblyReference.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.Resources.MajalesResx.resources
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.Resources.MajalesResx.ar.resources
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.csproj.GenerateResource.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.AssemblyInfoInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.AssemblyInfo.cs
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.csproj.CoreCompileInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ar\ASP.Resources.cs.resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\refint\ASP.Resources.cs.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ASP.Resources.cs.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources.cs\obj\Debug\net6.0\ref\ASP.Resources.cs.dll

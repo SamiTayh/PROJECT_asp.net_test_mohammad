@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwHSUpEqF8RbCWmhlCDHSj0NqN/cGFA4o/LdC3741il3/HEmBn4wYiMBKh2e3O86UtaJZAas51Fu1JulvRDh2g==",
+  "success": true,
+  "projectFilePath": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ASP.Resources\\ASP.Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M.sami\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.5\\microsoft.extensions.localization.abstractions.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,80 @@
+﻿@using Asp.DALL.Entites;
+@model Asp.DALL.Viewmodel.PromationReaserchVM
+@{
+    var listofgender = (List<Gender>)ViewData["gender"];
+    var listofbooks = (List<ListBooks>)ViewData["lists"];
+
+}
+<form asp-controller="PromationReaserchss" asp-action="Form" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+
+    <input type="hidden" asp-for="Id" />
+    <label class="form-group">Name</label>
+    <input class="form-control" type="text" asp-for="Name" />
+    <br />
+    <label class="form-group">Description</label>
+    <input class="form-control" type="text" asp-for="Description" />
+    <br /> 
+    
+    <label class="form-group">Age</label>
+    <input class="form-control" type="number" asp-for="Age" />
+    <br />
+   
+
+    <label class="form-group">Date</label>
+    <input class="form-control" type="date" asp-for="Date" />
+    <br />
+    <label class="form-group">Email</label>
+    <input class="form-control" type="email" asp-for="Email" />
+    <br />
+    <label class="form-group">File</label>
+    <input class="form-control" type="file" asp-for="Attach" />
+    <input type="hidden" asp-for="File" />
+    <input type="hidden" asp-for="Extention" />
+    <br />
+    <select class="form-control" asp-for="Genderid">
+
+        <option value="">Select Gender</option>
+        @foreach (var c in @listofgender) // Print the list
+        {
+            <option value="@c.Id">@c.Name</option>
+        }
+
+
+    </select>
+    <br />
+    <select class="form-control" asp-for="listsid">
+
+        <option value="">Select listbooks</option>
+        @foreach (var c in @listofbooks) // Print the list
+        {
+            <option value="@c.Id">@c.NameBooks</option>
+        }
+
+
+    </select>
+    <br />
+    <button class="btn btn-success"> save</button>
+</form>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

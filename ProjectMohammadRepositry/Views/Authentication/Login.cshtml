@@ -1,0 +1,80 @@
+﻿@model Asp.DALL.Viewmodel.UserVM
+@inject IHtmlLocalizer<MajalesResx> Localizer
+
+@{
+    Layout = "~/Views/Shared/_loginlayout.cshtml";
+}
+
+
+@*<form asp-controller="Authentication" 
+        asp-action="Login">
+    <div class="form-group">
+        <label for="" class="form__label">User Name</label>
+        <input type="text" asp-for="UserName" class="form__input" autocomplete="on" placeholder="Enter UserName">
+
+       
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input type="password" asp-for="Password" class="form__input">
+    </div>
+    <div class="form-group">
+        <label class="alert alert-danger">@Model.MSG</label>
+        
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+*@
+
+<div class="l-form">
+    <div class="shape1"></div>
+    <div class="shape2"></div>
+    <div class="shape3"></div>
+
+    <div class="form">
+        <img src="~/thems/img/Account-amico.svg" alt="" class="form__img vert-move">
+        <form asp-controller="Authentication" asp-action="Login" class="form__content" style="    direction: rtl;">
+            <div style="margin-top: 2%;">  <img src="~/thems/img/nbu logo-01.png" alt="" class=""></div>
+            <div class="form__div form__div-one">
+                <div class="form__icon">
+                    <i class='bx bx-user-circle'></i>
+                </div>
+
+                <div class="form__div-input">
+                    <label for="" class="form__label">@Localizer["user name"]</label>
+                    <input type="text" asp-for="UserName" class="form__input" autocomplete="on">
+                </div>
+            </div>
+
+            <div class="form__div">
+                <div class="form__icon">
+                    <i class='bx bx-lock'></i>
+                </div>
+
+                <div class="form__div-input">
+                    <label for="" class="form__label">@Localizer["password"]</label>
+                    <input type="password" asp-for="Password" class="form__input">
+
+                </div>
+
+            </div>
+
+            @if (Model != null && !string.IsNullOrEmpty(Model.MSG))
+            {
+                <div class="alert alert-danger" role="alert">
+                    <i class="bi bi-exclamation-triangle"></i> @Model.MSG
+                </div>
+            }
+            <input type="submit" class="form__button" value="@Localizer["Login"]">
+
+            @* <div class="text-center p-t-12">
+            <div class="pargraph">
+            <p><span>  <i class="fas fa-copyright"></i></span>  @L["CopyRights"]</p>
+            <partial name="_LangChanger" href="~/view/shared/_LangChanger" />
+
+            </div>
+            </div>*@
+        </form>
+    </div>
+
+</div>

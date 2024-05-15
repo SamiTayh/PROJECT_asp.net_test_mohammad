@@ -1,0 +1,389 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectMohammadRepositry
+build_property.RootNamespace = ProjectMohammadRepositry
+build_property.ProjectDir = E:\GITHUB\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\GITHUB\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Academicsss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNzc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Academicsss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNzc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Academicsss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNzc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Alumnissss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5pc3Nzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Authorss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Authorss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Authorss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/CodeAgentss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUFnZW50c3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/CodeAgentss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUFnZW50c3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/CodeBankss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUJhbmtzc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/CodeBankss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUJhbmtzc1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/CodeBankss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUJhbmtzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Deceratorsss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVjZXJhdG9yc3NzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Deceratorsss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVjZXJhdG9yc3NzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Deceratorsss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVjZXJhdG9yc3NzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Departmentss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Departmentss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Departmentss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Employeesss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Employeesss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Employeesss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Ethreaasss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRocmVhYXNzc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Ethreaasss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRocmVhYXNzc1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Ethreaasss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRocmVhYXNzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Fileextentions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZWV4dGVudGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Fileextentions/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZWV4dGVudGlvbnNcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Fileextentions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZWV4dGVudGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Greetingss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZXRpbmdzc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Greetingss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZXRpbmdzc1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Greetingss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZXRpbmdzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Langugessss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VnZXNzc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Langugessss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VnZXNzc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Langugessss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VnZXNzc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Majalesss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqYWxlc3NzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Majalesss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqYWxlc3NzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Majalesss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqYWxlc3NzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Materialsss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Materialsss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Materialsss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Mohammadtayeh/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9oYW1tYWR0YXllaFxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Mohammadtayeh/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9oYW1tYWR0YXllaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PeaNbusss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVhTmJ1c3NzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PeaNbusss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVhTmJ1c3NzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PeaNbusss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVhTmJ1c3NzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Product/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationBook/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationBook/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uQm9va1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationBook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationPaitentss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uUGFpdGVudHNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationReaserchss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uUmVhc2VyY2hzc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationReaserchss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uUmVhc2VyY2hzc1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/PromationReaserchss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbWF0aW9uUmVhc2VyY2hzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Role/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/ScientaficPromations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50YWZpY1Byb21hdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/ScientaficPromations/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50YWZpY1Byb21hdGlvbnNcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/ScientaficPromations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50YWZpY1Byb21hdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Shared/_loginlayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sb2dpbmxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Sponserss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvbnNlcnNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Sponserss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvbnNlcnNzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Sponserss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvbnNlcnNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Studentss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Studentss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Studentss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Surveyss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5c3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Surveyss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5c3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Surveyss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5c3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/TransVisass/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNWaXNhc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/TransVisass/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNWaXNhc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/TransVisass/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNWaXNhc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Travelss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Travelss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc3NcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Travelss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/TSAPSSS/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFNBUFNTU1xkZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/TSAPSSS/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFNBUFNTU1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/TSAPSSS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFNBUFNTU1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/User/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Wigooss/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lnb29zc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Wigooss/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lnb29zc1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Wigooss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lnb29zc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GITHUB/PROJECT_asp.net_test_mohammad/ProjectMohammadRepositry/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iewlj42rzj

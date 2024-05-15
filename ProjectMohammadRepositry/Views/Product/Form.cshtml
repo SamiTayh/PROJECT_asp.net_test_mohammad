@@ -1,0 +1,36 @@
+﻿@model Asp.DALL.Entites.Product
+
+<form asp-controller="Product" asp-action="Form" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <label>Name </label>
+    <input type="text" asp-for="Name" /><br />
+    <label>Description</label>
+    <input type="text" asp-for="Description" /><br />
+    <label>Price</label>
+    <input type="text" asp-for="Price" />
+
+    <button> save</button>
+</form>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

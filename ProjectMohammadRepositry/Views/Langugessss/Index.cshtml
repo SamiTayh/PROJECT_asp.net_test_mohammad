@@ -1,0 +1,142 @@
+﻿<a href="javascript:void(0)" onclick="return OpenAddForm()" class="btn btn-primary" style=" margin-top: 4%; margin-bottom:10px">Create</a>
+<table id="FormTable" class="table table-bordered table-striped  js-basic-example dataTable">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>LangugeName</th>
+            <th>LangugeDescription</th>
+            <th>LangugeTitle</th>
+            <th>Age</th>
+            <th>Date</th>
+            <th>Gender</th>
+            <th>listBooks</th>
+            <th>File</th>
+            <th>Update</th>
+            <th>Delete</th>
+
+
+        </tr>
+
+
+
+    </thead>
+    <tbody>
+    </tbody>
+
+</table>
+
+<script>
+    $(function () {
+        LoadDataGrid();
+    })
+    var OpenAddForm = function () {
+
+        $.ajax({
+            url: '/Langugessss/Form',
+            method: 'GET'
+        }).done((data) => {
+            $('#modal-trigger .title').text('Create');
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+        }).fail(function (response) {
+            toastr.error(response.responseText);
+        })
+    }
+    var LoadDataGrid = function () {
+        $.ajax({
+            url: '/Langugessss/LoadDataGrid',
+            method: 'GET',
+        }).done((data) => {
+            var dtObj = {
+                data: data,
+                retrieve: true,
+                ordering: true,
+                responsive: true,
+                language: {
+                    search: "_INPUT_",
+                    searchPlaceholder: "Search..."
+                },
+                dom: 'Bfrtip',
+                columns: [
+                    { 'data': 'id' },
+                    { 'data': 'langugeName' },
+                    { 'data': 'langugeDescription' },
+                    { 'data': 'langugeTitle' },
+                    { 'data': 'age' },
+                    { 'data': 'date' },
+                    { 'data': 'gender.name' },
+                    { 'data': 'listid' },
+
+
+
+                    {
+                        'data': 'filepath',
+                        'render': function (Data) {
+                            var rows = '';
+                            rows += '<a class="btn btn-primary" target="_balnk" href="' + Data + '">attach</a>';
+
+
+                            return rows;
+                        }
+                    },
+                    {
+                        'data': 'id',
+                        'render': function (Data) {
+                            var rows = '';
+                            rows += '<a class="btn btn-success" onclick="return Edit(' + Data + ')">Edit</a>';
+                            return rows;
+                        }
+                    },
+                    {
+                        'data': 'id',
+                        'render': function (Data) {
+                            var rows = '';
+                            rows += '<a class="btn btn-danger" onclick="return Delete(' + Data + ')">Delete</a>';
+                            return rows;
+                        }
+                    }
+                ]
+            };
+
+            $('#FormTable').dataTable().fnDestroy();
+            $('#FormTable').dataTable(dtObj);
+            $('#FormTable').css("width", "100%");
+        });
+    }
+    var Delete = function (id) {
+        $.ajax({
+            url: '/Langugessss/Delete',
+            method: 'GET',
+            data: {
+                id: id
+            }
+        }).done((data) => {
+            $('#modal-trigger .title').text("Delete");
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+        }).fail(function (response) {
+            console.log(response.responseText);
+        })
+    }
+
+    var Edit = function (Id) {
+
+        $.ajax({
+            url: '/Langugessss/Form',
+            method: 'GET',
+            data: {
+                Id: Id
+
+            }
+        }).done((data) => {
+            $('#modal-trigger .title').text("Edit");
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+
+        }).fail(function (response) {
+            toastr.error(response.responseText);
+        })
+
+    }
+
+</script>

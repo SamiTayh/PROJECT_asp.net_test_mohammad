@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProjectMohammadRepositry</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/ProjectMohammadRepositry.styles.css" asp-append-version="true" />
+    <link href="~/css/toastr.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link id="pagestyle" href="~/thems/css/material-bootstrap.css" rel="stylesheet" />
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link href="~/thems/css/LOG-IN.css" rel="stylesheet" />
+    <!-- Dt -->
+    <link href="~/lib/DataTable/DataTables-1.10.18/css/dataTables.bootstrap4.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Scroller-2.0.0/css/scroller.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Responsive-2.2.2/css/responsive.bootstrap4.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Buttons-1.5.6/css/buttons.bootstrap4.min.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+</head>
+<body>
+ 
+    <div class="container-fluide">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <!-- Modals -->
+    
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/js/toastr.min.js"></script>
+
+    <!-- Dt -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

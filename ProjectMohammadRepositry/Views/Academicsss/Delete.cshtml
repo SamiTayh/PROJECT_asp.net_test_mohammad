@@ -1,0 +1,30 @@
+﻿@model Asp.DALL.Entites.Academic
+
+<h1>Are you sure???????</h1>
+
+<form asp-controller="Academicsss" asp-action="Delete" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index">Back to List</a>
+</form>
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

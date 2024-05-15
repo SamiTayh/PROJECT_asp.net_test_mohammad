@@ -1,0 +1,12 @@
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\bin\Debug\net6.0\ASPComman.deps.json
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\bin\Debug\net6.0\ASPComman.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\bin\Debug\net6.0\ASPComman.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.csproj.AssemblyReference.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.AssemblyInfoInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.AssemblyInfo.cs
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.csproj.CoreCompileInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\refint\ASPComman.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ASPComman.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASPComman\obj\Debug\net6.0\ref\ASPComman.dll

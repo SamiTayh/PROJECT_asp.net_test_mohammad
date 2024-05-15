@@ -1,0 +1,172 @@
+﻿@inject IHtmlLocalizer<MajalesResx> Localizer
+<div class="row mb-4 justify-content-center">
+
+    <div class="col-lg-10 animation">
+        <div class="col">
+            <a class="btn btn-ADD icon-move-right" href="javascript:void(0)" onclick="return OpenAddForm()"> <i class="bi bi-check2-all"></i>  @CommonLocalizer["Add"]</a>
+        </div>
+        <div class="card shadow ">
+            <!-- Card Header - Dropdown -->
+            <div class="card-header d-flex flex-row align-items-center">
+                <div class="card-header-title">
+                    <i class="bi bi-people icon-collapse   fa-2x"></i>
+                    <label class="springy-text card-header-label">@Localizer["Travel"]</label>
+                </div>
+
+            </div>
+            <!-- Card Body -->
+            <div class="card-body">
+                <div class="">
+                    <table id="FormTable" class="table table-bordered table-striped  js-basic-example dataTable">
+                        <thead>
+                            <tr>
+                                <th>@Localizer["Id"]</th>
+                                <th>@Localizer["Name"]</th>
+                                <th>@Localizer["Description"]</th>
+                                <th>@Localizer["Title"]</th>
+                                <th>@Localizer["Age"]</th>
+                                <th>@Localizer["Date"]</th>
+                                <th>@Localizer["Gender"]</th>
+                                <th>@Localizer["listBooks"]</th>
+                                <th>@Localizer["File"]</th>
+                                <th>@Localizer["Update"]</th>
+                                <th>@Localizer["Delete"]</th>
+
+
+                            </tr>
+
+
+
+                        </thead>
+                        <tbody>
+                        </tbody>
+
+                    </table>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+    $(function () {
+        LoadDataGrid();
+    })
+    var OpenAddForm = function () {
+
+        $.ajax({
+            url: '/Travelss/Form',
+            method: 'GET'
+        }).done((data) => {
+            $('#modal-trigger .title').text('Create');
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+        }).fail(function (response) {
+            toastr.error(response.responseText);
+        })
+    }
+    var LoadDataGrid = function () {
+        $.ajax({
+            url: '/Travelss/LoadDataGrid',
+            method: 'GET',
+        }).done((data) => {
+            var dtObj = {
+                data: data,
+                retrieve: true,
+                ordering: true,
+                responsive: true,
+                dom: 'Bfrtip',
+                oLanguage: {
+                    sSearch: '',
+                    sSearchPlaceholder: "@CommonLocalizer["Search ..."]",
+                },
+                columns: [
+                    { 'data': 'id' },
+                    { 'data': 'name' },
+                    { 'data': 'description' },
+                    { 'data': 'title' },
+                    { 'data': 'age' },
+                    { 'data': 'date' },
+                    { 'data': 'gender.name' },
+                    { 'data': 'listid' },
+
+
+
+                    {
+                        'data': 'filepath',
+                        'render': function (Data) {
+                            var rows = '';
+                            //rows += '<a class="btn btn-primary" target="_balnk" href="' + Data + '">attach</a>';
+                            rows += '<a target="_blank" href="' + Data + '"> <i class="bi bi-eye icon-download"></i></a>';
+
+
+                            return rows;
+                        }
+                    },
+                    {
+                        'data': 'id',
+                        'render': function (Data) {
+                            var rows = '';
+                            //rows += '<a class="btn btn-success" onclick="return Edit(' + Data + ')">Edit</a>';
+                            rows += '<a href="javascript:void(0)" onclick="return Edit(`' + Data + '`)"><i class="bi bi-pencil-square  icon-download"></i></a>';
+                            return rows;
+                        }
+                    },
+                    {
+                        'data': 'id',
+                        'render': function (Data) {
+                            var rows = '';
+                            //rows += '<a class="btn btn-danger" onclick="return Delete(' + Data + ')">Delete</a>';
+                            rows += '<a href="javascript:void(0)" onclick="return Delete(`' + Data + '`)"><i class="bi bi-x-octagon  icon-delete"></i></a>';
+                            return rows;
+                        }
+                    }
+                ]
+            };
+
+            $('#FormTable').dataTable().fnDestroy();
+            $('#FormTable').dataTable(dtObj);
+            $('#FormTable').css("width", "100%");
+        });
+    }
+    var Delete = function (id) {
+        $.ajax({
+            url: '/Travelss/Delete',
+            method: 'GET',
+            data: {
+                id: id
+            }
+        }).done((data) => {
+            $('#modal-trigger .title').text("Delete");
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+        }).fail(function (response) {
+            console.log(response.responseText);
+        })
+    }
+
+    var Edit = function (Id) {
+
+        $.ajax({
+            url: '/Travelss/Form',
+            method: 'GET',
+            data: {
+                Id: Id
+
+            }
+        }).done((data) => {
+            $('#modal-trigger .title').text("Edit");
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+
+        }).fail(function (response) {
+            toastr.error(response.responseText);
+        })
+
+    }
+
+</script>

@@ -1,0 +1,50 @@
+﻿@model Asp.DALL.Viewmodel.AuthorVM
+@inject IHtmlLocalizer<MajalesResx> Localizer;
+<form asp-controller="Authorss" asp-action="Form" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+
+    <input type="hidden" asp-for="Id" />
+    <label class="form-group">@Localizer["Name"]</label>
+    <input class="form-control" type="text" asp-for="Name" />
+    <br />
+   
+
+    <label class="form-group">@Localizer["Age"]</label>
+    <input class="form-control" type="number" asp-for="Age" />
+    <br />
+    <label class="form-group">@Localizer["Title"]</label>
+    <input class="form-control" type="text" asp-for="Title" />
+    <br />
+
+
+
+  
+    <br />
+    <div class="row" style="text-align:center;">
+        <div class="col-lg-6 "><button class="btn btn-save w-25"> save</button></div>
+        <div class="col-lg-6 "><a class="btn btn-danger w-25" asp-action="Index">cancel</a></div>
+    </div>
+    
+</form>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

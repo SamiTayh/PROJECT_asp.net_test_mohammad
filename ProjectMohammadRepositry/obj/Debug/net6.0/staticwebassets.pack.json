@@ -1,0 +1,1865 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectMohammadRepositry.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectMohammadRepositry.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\0.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\0.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\0.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\0.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\0.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\0.pdf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\0.png",
+      "PackagePath": "staticwebassets\\Attachment\\0.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\0.webp",
+      "PackagePath": "staticwebassets\\Attachment\\0.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\1.docx",
+      "PackagePath": "staticwebassets\\Attachment\\1.docx"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\1.gif",
+      "PackagePath": "staticwebassets\\Attachment\\1.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\1.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\1.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\1.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\1.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\1.png",
+      "PackagePath": "staticwebassets\\Attachment\\1.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\10.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\10.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\10.png",
+      "PackagePath": "staticwebassets\\Attachment\\10.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\11.gif",
+      "PackagePath": "staticwebassets\\Attachment\\11.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\12.png",
+      "PackagePath": "staticwebassets\\Attachment\\12.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\13.gif",
+      "PackagePath": "staticwebassets\\Attachment\\13.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\13.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\13.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\14.58",
+      "PackagePath": "staticwebassets\\Attachment\\14.58"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\14.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\14.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\15.58",
+      "PackagePath": "staticwebassets\\Attachment\\15.58"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\16.58",
+      "PackagePath": "staticwebassets\\Attachment\\16.58"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\17.31",
+      "PackagePath": "staticwebassets\\Attachment\\17.31"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\18.31",
+      "PackagePath": "staticwebassets\\Attachment\\18.31"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\19.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\19.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.gif",
+      "PackagePath": "staticwebassets\\Attachment\\2.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\2.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\2.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\2.pdf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.png",
+      "PackagePath": "staticwebassets\\Attachment\\2.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.webp",
+      "PackagePath": "staticwebassets\\Attachment\\2.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\2.xlsx",
+      "PackagePath": "staticwebassets\\Attachment\\2.xlsx"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\3.docx",
+      "PackagePath": "staticwebassets\\Attachment\\3.docx"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\3.gif",
+      "PackagePath": "staticwebassets\\Attachment\\3.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\3.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\3.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\3.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\3.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\3.png",
+      "PackagePath": "staticwebassets\\Attachment\\3.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\3.webp",
+      "PackagePath": "staticwebassets\\Attachment\\3.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\4.gif",
+      "PackagePath": "staticwebassets\\Attachment\\4.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\4.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\4.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\4.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\4.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\4.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\4.pdf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\4.png",
+      "PackagePath": "staticwebassets\\Attachment\\4.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\4.webp",
+      "PackagePath": "staticwebassets\\Attachment\\4.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\5.gif",
+      "PackagePath": "staticwebassets\\Attachment\\5.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\5.jpeg",
+      "PackagePath": "staticwebassets\\Attachment\\5.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\5.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\5.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\5.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\5.pdf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\5.png",
+      "PackagePath": "staticwebassets\\Attachment\\5.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\5.webp",
+      "PackagePath": "staticwebassets\\Attachment\\5.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\6.docx",
+      "PackagePath": "staticwebassets\\Attachment\\6.docx"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\6.gif",
+      "PackagePath": "staticwebassets\\Attachment\\6.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\6.png",
+      "PackagePath": "staticwebassets\\Attachment\\6.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\6.webp",
+      "PackagePath": "staticwebassets\\Attachment\\6.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\7.gif",
+      "PackagePath": "staticwebassets\\Attachment\\7.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\7.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\7.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\7.webp",
+      "PackagePath": "staticwebassets\\Attachment\\7.webp"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\8.gif",
+      "PackagePath": "staticwebassets\\Attachment\\8.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\8.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\8.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\8.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\8.pdf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\9.jpg",
+      "PackagePath": "staticwebassets\\Attachment\\9.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\Attachment\\9.png",
+      "PackagePath": "staticwebassets\\Attachment\\9.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toastr.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\common.scss",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\common.scss"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\css\\mixins.scss"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.print.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Buttons-1.5.6\\swf\\flashExport.swf",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Buttons-1.5.6\\swf\\flashExport.swf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\DataTables-1.10.18\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\DataTables-1.10.18\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\JSZip-2.5.0\\jszip.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\JSZip-2.5.0\\jszip.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\JSZip-2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\JSZip-2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.dataTables.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.foundation.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.foundation.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.jqueryui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.semanticui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\css\\responsive.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.foundation.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.foundation.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.jqueryui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.semanticui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Responsive-2.2.2\\js\\responsive.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.dataTables.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.foundation.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.foundation.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.jqueryui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.semanticui.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\css\\scroller.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.dataTables.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.foundation.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.foundation.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.jqueryui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.semanicui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.semanticui.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\Scroller-2.0.0\\js\\scroller.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\datatables.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\datatables.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\pdfmake-0.1.36\\pdfmake.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\pdfmake-0.1.36\\pdfmake.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\pdfmake-0.1.36\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\pdfmake-0.1.36\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\DataTable\\pdfmake-0.1.36\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\lib\\DataTable\\pdfmake-0.1.36\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\css\\select2.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\af.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\af.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\af.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ar.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ar.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\az.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\az.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\az.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bg.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bg.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bn.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\bn.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bn.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bs.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bs.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ca.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ca.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\cs.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\cs.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\da.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\da.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\da.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\de.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\de.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\de.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\dsb.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\dsb.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\dsb.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\el.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\el.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\el.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\en.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\en.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\en.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\es.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\es.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\et.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\et.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\et.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\eu.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\eu.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fa.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fi.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fi.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fr.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fr.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\gl.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\gl.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\he.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\he.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\he.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hi.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hi.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hr.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hr.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hsb.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hsb.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hsb.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hu.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hu.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hy.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\hy.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hy.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\id.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\id.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\id.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\is.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\is.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\is.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\it.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\it.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\it.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ja.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ja.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ka.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ka.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\km.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\km.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\km.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ko.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ko.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lt.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lt.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lv.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lv.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\mk.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\mk.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ms.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ms.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ms.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nb.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\nb.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nb.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ne.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ne.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ne.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nl.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nl.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pl.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pl.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ps.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ps.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ps.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt-BR.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ro.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ro.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ru.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ru.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sk.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sk.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sl.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sl.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sq.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sq.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sq.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sr-Cyrl.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr-Cyrl.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sv.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sv.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\th.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\th.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\th.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tk.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\tk.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tk.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tr.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tr.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\uk.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\uk.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\vi.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\vi.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-CN.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\i18n\\zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-TW.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.full.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\select2.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\thems\\bootstrap-4.0.0-rtl-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\css\\LOG-IN.css",
+      "PackagePath": "staticwebassets\\thems\\css\\LOG-IN.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\css\\material-bootstrap.css",
+      "PackagePath": "staticwebassets\\thems\\css\\material-bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\css\\siteLTR.css",
+      "PackagePath": "staticwebassets\\thems\\css\\siteLTR.css"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\fonts\\Neo Sans Arabic Regular.ttf",
+      "PackagePath": "staticwebassets\\thems\\fonts\\Neo Sans Arabic Regular.ttf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\fonts\\NeoSansArabicBold.ttf",
+      "PackagePath": "staticwebassets\\thems\\fonts\\NeoSansArabicBold.ttf"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\23952083-d464-410b-ac80-07cb69a99ae0.png",
+      "PackagePath": "staticwebassets\\thems\\img\\23952083-d464-410b-ac80-07cb69a99ae0.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\96262_arabia_of_flag_saudi_icon.png",
+      "PackagePath": "staticwebassets\\thems\\img\\96262_arabia_of_flag_saudi_icon.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\96325_zealand_of_flag_new_icon.png",
+      "PackagePath": "staticwebassets\\thems\\img\\96325_zealand_of_flag_new_icon.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\AV8U9018.JPG",
+      "PackagePath": "staticwebassets\\thems\\img\\AV8U9018.JPG"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\Account-amico.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\Account-amico.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\ERROR (2).png",
+      "PackagePath": "staticwebassets\\thems\\img\\ERROR (2).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\ERROR.png",
+      "PackagePath": "staticwebassets\\thems\\img\\ERROR.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\FirsthandPettyFallowdeer-max-1mb.gif",
+      "PackagePath": "staticwebassets\\thems\\img\\FirsthandPettyFallowdeer-max-1mb.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\LOGO-03.png",
+      "PackagePath": "staticwebassets\\thems\\img\\LOGO-03.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\NBU.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\NBU.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\Nbu-Back.JPG",
+      "PackagePath": "staticwebassets\\thems\\img\\Nbu-Back.JPG"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\Quick-Menu.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\Quick-Menu.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\Scroll Group 8.png",
+      "PackagePath": "staticwebassets\\thems\\img\\Scroll Group 8.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\Spinner.gif",
+      "PackagePath": "staticwebassets\\thems\\img\\Spinner.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\add.png",
+      "PackagePath": "staticwebassets\\thems\\img\\add.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\analysis (2).png",
+      "PackagePath": "staticwebassets\\thems\\img\\analysis (2).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\backgrounddoodles.png",
+      "PackagePath": "staticwebassets\\thems\\img\\backgrounddoodles.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\business-software.gif",
+      "PackagePath": "staticwebassets\\thems\\img\\business-software.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\check.png",
+      "PackagePath": "staticwebassets\\thems\\img\\check.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\checked.png",
+      "PackagePath": "staticwebassets\\thems\\img\\checked.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\clipboard.png",
+      "PackagePath": "staticwebassets\\thems\\img\\clipboard.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\cloud-computing.png",
+      "PackagePath": "staticwebassets\\thems\\img\\cloud-computing.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\colored-logo.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\colored-logo.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\comment_image.png",
+      "PackagePath": "staticwebassets\\thems\\img\\comment_image.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\commet2_img.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\commet2_img.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\conversation-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\conversation-svgrepo-com.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\cross.png",
+      "PackagePath": "staticwebassets\\thems\\img\\cross.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\delete (3).png",
+      "PackagePath": "staticwebassets\\thems\\img\\delete (3).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\delete1.png",
+      "PackagePath": "staticwebassets\\thems\\img\\delete1.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\delete_.png",
+      "PackagePath": "staticwebassets\\thems\\img\\delete_.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\deleteimage.png",
+      "PackagePath": "staticwebassets\\thems\\img\\deleteimage.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\down-arrow.png",
+      "PackagePath": "staticwebassets\\thems\\img\\down-arrow.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\errror.gif",
+      "PackagePath": "staticwebassets\\thems\\img\\errror.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\file (2).png",
+      "PackagePath": "staticwebassets\\thems\\img\\file (2).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\form_sheetbg.png",
+      "PackagePath": "staticwebassets\\thems\\img\\form_sheetbg.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\header.png",
+      "PackagePath": "staticwebassets\\thems\\img\\header.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\icon-logo.png",
+      "PackagePath": "staticwebassets\\thems\\img\\icon-logo.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\imagedownlodsign.png",
+      "PackagePath": "staticwebassets\\thems\\img\\imagedownlodsign.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\imageshed.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\imageshed.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\img2-Copy.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\img2-Copy.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\img2-Copy22.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\img2-Copy22.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\img2.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\laptop_settings.gif",
+      "PackagePath": "staticwebassets\\thems\\img\\laptop_settings.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\logo-hu.jpg",
+      "PackagePath": "staticwebassets\\thems\\img\\logo-hu.jpg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\mapnorth.png",
+      "PackagePath": "staticwebassets\\thems\\img\\mapnorth.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\nbu 4-06.png",
+      "PackagePath": "staticwebassets\\thems\\img\\nbu 4-06.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\nbu logo-01.png",
+      "PackagePath": "staticwebassets\\thems\\img\\nbu logo-01.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\nbulogo.png",
+      "PackagePath": "staticwebassets\\thems\\img\\nbulogo.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\new-header.png",
+      "PackagePath": "staticwebassets\\thems\\img\\new-header.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\pattern-back.png",
+      "PackagePath": "staticwebassets\\thems\\img\\pattern-back.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\pattern-mj.png",
+      "PackagePath": "staticwebassets\\thems\\img\\pattern-mj.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\pattren.png",
+      "PackagePath": "staticwebassets\\thems\\img\\pattren.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\pattren2.png",
+      "PackagePath": "staticwebassets\\thems\\img\\pattren2.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\pet.png",
+      "PackagePath": "staticwebassets\\thems\\img\\pet.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\saudi-arabia (1).png",
+      "PackagePath": "staticwebassets\\thems\\img\\saudi-arabia (1).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\saudi-arabia.png",
+      "PackagePath": "staticwebassets\\thems\\img\\saudi-arabia.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\signn.gif",
+      "PackagePath": "staticwebassets\\thems\\img\\signn.gif"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\signture.png",
+      "PackagePath": "staticwebassets\\thems\\img\\signture.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\slider-left-dec.jpeg",
+      "PackagePath": "staticwebassets\\thems\\img\\slider-left-dec.jpeg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\thumbnail_majales-pattern.png",
+      "PackagePath": "staticwebassets\\thems\\img\\thumbnail_majales-pattern.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\united-kingdom (1).png",
+      "PackagePath": "staticwebassets\\thems\\img\\united-kingdom (1).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\wave.svg",
+      "PackagePath": "staticwebassets\\thems\\img\\wave.svg"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\wepik-photo-mode-2022918-13514.png",
+      "PackagePath": "staticwebassets\\thems\\img\\wepik-photo-mode-2022918-13514.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\workflow (1).png",
+      "PackagePath": "staticwebassets\\thems\\img\\workflow (1).png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\wrapper-background.pngnew.png",
+      "PackagePath": "staticwebassets\\thems\\img\\wrapper-background.pngnew.png"
+    },
+    {
+      "Id": "E:\\PROJECT_asp.net_test_mohammad\\ProjectMohammadRepositry\\ProjectMohammadRepositry\\wwwroot\\thems\\img\\writing (1).png",
+      "PackagePath": "staticwebassets\\thems\\img\\writing (1).png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectMohammadRepositry.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjectMohammadRepositry.props",
+      "PackagePath": "build\\ProjectMohammadRepositry.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectMohammadRepositry.props",
+      "PackagePath": "buildMultiTargeting\\ProjectMohammadRepositry.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjectMohammadRepositry.props",
+      "PackagePath": "buildTransitive\\ProjectMohammadRepositry.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

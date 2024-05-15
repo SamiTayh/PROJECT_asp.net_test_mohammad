@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu copy</title>
+    <g id="Final-Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page&quot;8&quot;-Copy" transform="translate(-50.000000, -43.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="menu-copy" transform="translate(50.000000, 43.000000)">
+                <rect id="Rectangle" x="13" y="13" width="9" height="9"></rect>
+                <rect id="Rectangle" x="0" y="0" width="9" height="9"></rect>
+                <rect id="Rectangle" x="13" y="26" width="9" height="9"></rect>
+                <rect id="Rectangle" x="0" y="13" width="9" height="9"></rect>
+                <rect id="Rectangle" x="0" y="26" width="9" height="9"></rect>
+                <rect id="Rectangle" x="26" y="0" width="9" height="9"></rect>
+                <rect id="Rectangle" x="13" y="0" width="9" height="9"></rect>
+                <rect id="Rectangle" x="26" y="13" width="9" height="9"></rect>
+                <rect id="Rectangle" x="26" y="26" width="9" height="9"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

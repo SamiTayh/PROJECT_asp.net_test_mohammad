@@ -1,0 +1,43 @@
+﻿@model Asp.DALL.Entites.PromationBook
+
+
+
+<form asp-controller="PromationBook" asp-action="Form" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <label class="form-group">BookName</label>
+    <input class="form-control" type="text" asp-for="BookName" />
+    <br />
+    <label class="form-group">BookTitle</label>
+    <input class="form-control" type="text" asp-for="BookTitle" />
+    <br />
+    <label class="form-group">PriceBook</label>
+    <input class="form-control" type="number" asp-for="PriceBook" />
+    <br />
+    <label class="form-group">DescriptionBook</label>
+    <input class="form-control" type="text" asp-for="DescriptionBook" />
+    <br />
+    <button class="btn btn-success"> save</button>
+</form>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

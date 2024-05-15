@@ -1,0 +1,14 @@
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\bin\Debug\net6.0\Asp.DALL.deps.json
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\bin\Debug\net6.0\Asp.DALL.runtimeconfig.json
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\bin\Debug\net6.0\Asp.DALL.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\bin\Debug\net6.0\Asp.DALL.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.csproj.AssemblyReference.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.AssemblyInfoInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.AssemblyInfo.cs
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.csproj.CoreCompileInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\refint\Asp.DALL.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\Asp.DALL.genruntimeconfig.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\Asp.DALL\obj\Debug\net6.0\ref\Asp.DALL.dll

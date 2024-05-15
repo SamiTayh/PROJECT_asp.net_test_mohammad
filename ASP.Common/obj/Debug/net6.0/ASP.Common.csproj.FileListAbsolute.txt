@@ -1,0 +1,12 @@
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\bin\Debug\net6.0\ASP.Common.deps.json
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\bin\Debug\net6.0\ASP.Common.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\bin\Debug\net6.0\ASP.Common.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.csproj.AssemblyReference.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.AssemblyInfoInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.AssemblyInfo.cs
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.csproj.CoreCompileInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\refint\ASP.Common.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ASP.Common.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Common\obj\Debug\net6.0\ref\ASP.Common.dll

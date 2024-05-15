@@ -1,0 +1,114 @@
+﻿@using Asp.DALL.Entites;
+@model Asp.DALL.Viewmodel.TravelVM
+@inject IHtmlLocalizer<MajalesResx> Localizer
+@{
+    var listofgender = (List<Gender>)ViewData["gender"];
+    var listofbooks = (List<ListBooks>)ViewData["lists"];
+
+}
+
+<form asp-controller="Travelss" asp-action="Form" data-ajax-method="post" data-ajax="true"
+      data-ajax-failure="OnFailure"
+      data-ajax-success="OnSuccess"
+      data-ajax-begin="OnBegin"
+      enctype="multipart/form-data">
+
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="File" />
+    <input type="hidden" asp-for="Extention" />
+
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Name"]</label>
+            <input class="form-control" type="text" asp-for="Name" />
+        </div>
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Description"]</label>
+            <input class="form-control" type="text" asp-for="Description" />
+        </div>
+    </div>
+
+  
+    <br />
+
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Age"]</label>
+            <input class="form-control" type="number" asp-for="Age" />
+        </div>
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Title"]</label>
+            <input class="form-control" type="text" asp-for="Title" />
+        </div>
+    </div>
+
+
+    <br />
+
+
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Date"]</label>
+            <input class="form-control" type="date" asp-for="Date" />
+        </div>
+        <div class="col-lg-6">
+
+            <label class="form-group">@Localizer["File"]</label>
+            <input class="form-control" type="file" asp-for="Attach" />
+        </div>
+    </div>
+
+
+    <br />
+
+    <div class="row">
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["Gender"]</label>
+            <select class="form-control" asp-for="Genderid">
+
+                <option value="">Select Gender</option>
+                @foreach (var c in @listofgender) // Print the list
+                {
+                    <option value="@c.Id">@c.Name</option>
+                }
+
+
+            </select>
+        </div>
+        <div class="col-lg-6">
+            <label class="form-group">@Localizer["listBooks"]</label>
+            <select class="form-control" asp-for="Listid">
+
+                <option value="">Select listbooks</option>
+                @foreach (var c in @listofbooks) // Print the list
+                {
+                    <option value="@c.Id">@c.NameBooks</option>
+                }
+
+
+            </select>
+        </div>
+    </div>
+
+    <br />
+    <button class="btn btn-save"> save</button>
+</form>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<script>
+    var OnFailure = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+    }
+    var OnBegin = function () {
+        $('form button').attr('disabled', true)
+    }
+    var OnSuccess = function (data) {
+        $('form button').attr('disabled', false)
+        console.log(data.message);
+        LoadDataGrid();
+        $('#modal-trigger .modal-body').html('');
+        $('#modal-trigger').modal('hide');
+    }
+</script>

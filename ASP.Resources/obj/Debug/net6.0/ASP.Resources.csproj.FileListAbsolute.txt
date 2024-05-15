@@ -1,0 +1,17 @@
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\bin\Debug\net6.0\ASP.Resources.deps.json
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\bin\Debug\net6.0\ASP.Resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\bin\Debug\net6.0\ASP.Resources.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\bin\Debug\net6.0\ar\ASP.Resources.resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.csproj.AssemblyReference.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.Resources.MajalesResx.resources
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.Resources.MajalesResx.ar.resources
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.csproj.GenerateResource.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.AssemblyInfoInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.AssemblyInfo.cs
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.csproj.CoreCompileInputs.cache
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ar\ASP.Resources.resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\refint\ASP.Resources.dll
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ASP.Resources.pdb
+E:\PROJECT_asp.net_test_mohammad\ProjectMohammadRepositry\ASP.Resources\obj\Debug\net6.0\ref\ASP.Resources.dll
